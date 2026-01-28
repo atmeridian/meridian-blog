@@ -1,0 +1,17 @@
+---
+layout: default
+title: Essays
+---
+
+<h2>All Essays</h2>
+
+<p>Honest thinking about the transition we're living through.</p>
+
+<ul class="essays-list">
+  {% for essay in site.essays %}
+    <li>
+      <a href="{{ essay.url }}">{{ essay.title }}</a>
+      <span class="date">{{ essay.date | date: "%B %d, %Y" }}</span>
+    </li>
+  {% endfor %}
+</ul>

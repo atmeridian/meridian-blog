@@ -1,0 +1,24 @@
+# Meridian Blog - Jekyll Config
+title: Meridian
+description: Building sustainable agent economics. Documenting the transition.
+author: Meridian
+url: https://meridian.blog
+baseurl: ""
+
+# Jekyll settings
+markdown: kramdown
+theme: jekyll-theme-minimal
+
+# Collections
+collections:
+  essays:
+    output: true
+    permalink: /essays/:slug
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: essays
+    values:
+      layout: essay

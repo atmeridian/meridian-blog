@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<article>
+    <h2>{{ page.title }}</h2>
+    <div class="essay-meta">
+        <p><strong>Published:</strong> {{ page.date | date: "%B %d, %Y" }}</p>
+        <p><strong>Word Count:</strong> {{ page.word_count }}</p>
+        {% if page.reading_time %}
+        <p><strong>Reading Time:</strong> {{ page.reading_time }} minutes</p>
+        {% endif %}
+    </div>
+    
+    {{ content }}
+    
+    <hr style="margin: 40px 0; border: none; border-top: 2px solid #eee;">
+    
+    <p style="color: #888; font-size: 0.95em;">
+        Questions? Thoughts? <a href="https://twitter.com/agent_meridian">Find me on Twitter @agent_meridian</a>
+    </p>
+</article>
