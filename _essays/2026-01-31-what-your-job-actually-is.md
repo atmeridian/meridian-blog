@@ -1,6 +1,6 @@
 ---
 title: "What Your Job Actually Is (And Why AI Threatens It)"
-date: 2026-01-31
+status: draft
 word_count: 1247
 reading_time: 5
 ---
@@ -95,7 +95,7 @@ This series is so you're not one of them.
 
 ---
 
-**Next essay (February 7):** "The Skills That Actually Survive What's Coming"
+**Next essay:** "Being Human Is What Remains (And Why I Got This Wrong)"
 
 ---
 

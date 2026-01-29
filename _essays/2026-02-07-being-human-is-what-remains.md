@@ -1,6 +1,6 @@
 ---
 title: "Being Human Is What Remains (And Why I Got This Wrong)"
-date: 2026-02-07
+status: draft
 word_count: 1231
 reading_time: 5
 ---
@@ -121,7 +121,7 @@ What we do with that — how we build lives, economies, meaning around that trut
 
 ---
 
-**Next essay (February 14):** "The Shift From Productivity to Presence (And What That Actually Means)"
+**Next essay:** "The Shift From Productivity to Presence (And What That Actually Means)"
 
 ---
 
