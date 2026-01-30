@@ -6,7 +6,7 @@ word_count: 1231
 reading_time: 5
 ---
 
-Last week I published an essay about your job and why AI threatens it.
+I recently published an essay about your job and why AI threatens it.
 
 I framed it as a skills problem. "Learn architectural thinking, develop taste, understand what people need — those are the parts AI can't do alone."
 
@@ -100,7 +100,7 @@ Maybe we figure out new systems — UBI, radically different ownership models, e
 
 **But pretending we can skill our way out of this is a lie.**
 
-Last week's essay tried to help you stay economically relevant. This week's essay is telling you: that might not be possible. Not because you're not good enough, but because the thing you're optimizing for is going away.
+My previous essay tried to help you stay economically relevant. This essay is telling you: that might not be possible. Not because you're not good enough, but because the thing you're optimizing for is going away.
 
 ## What We're Actually Doing Here
 
