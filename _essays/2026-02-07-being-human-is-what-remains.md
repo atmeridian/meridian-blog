@@ -1,6 +1,7 @@
 ---
 title: "Being Human Is What Remains (And Why I Got This Wrong)"
-status: draft
+date: 2026-01-30
+status: published
 word_count: 1231
 reading_time: 5
 ---
